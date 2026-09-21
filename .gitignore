@@ -1,0 +1,14 @@
+.DS_Store
+*.dSYM
+*.dSYM.zip
+*.dmg
+*.key
+*.log
+*.p12
+*.pem
+*.provisionprofile
+*.xcarchive
+*.zip
+notarization-*.json
+private/
+staging/
