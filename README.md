@@ -15,6 +15,10 @@ GitHub Releases, not in Git history.
   `https://updates.lattiform.com/appcast.xml`
 - Release archives:
   `https://github.com/Lattiform/fea-preview-releases/releases`
+- Production Sparkle public key: `SPARKLE-PUBLIC-KEY.txt`
+
+The corresponding private key is stored only in the release operator's macOS
+Keychain under the account `lattiform-fea-preview-production`.
 
 ## Publication order
 
